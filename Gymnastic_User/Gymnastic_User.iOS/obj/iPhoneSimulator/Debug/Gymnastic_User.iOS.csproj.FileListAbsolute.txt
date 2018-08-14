@@ -1,0 +1,7 @@
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\optimized\
+D:\Visual Studio Projects\Gymnastic_User\Gymnastic_User\Gymnastic_User.iOS\obj\iPhoneSimulator\Debug\Gymnastic_User.iOS.csprojAssemblyReference.cache
