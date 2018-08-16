@@ -15,7 +15,16 @@ namespace Gymnastic_User
 		public Page2 ()
 		{
 			InitializeComponent ();
-		}
-        ~Page2() { }
+        }
+
+        protected override void OnAppearing()
+        {
+            IsEnabled = true;
+        }
+
+        protected override void OnDisappearing()
+        {
+            IsEnabled = false;
+        }
     }
 }

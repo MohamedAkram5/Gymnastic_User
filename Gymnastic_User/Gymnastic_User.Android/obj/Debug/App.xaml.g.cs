@@ -13,7 +13,8 @@
 namespace Gymnastic_User {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Visual Studio Projects\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\App" +
+        ".xaml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

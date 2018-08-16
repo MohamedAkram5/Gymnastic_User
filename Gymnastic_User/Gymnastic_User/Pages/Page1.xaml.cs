@@ -12,11 +12,19 @@ namespace Gymnastic_User
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class Page1 : ContentPage
 	{
-		public Page1 ()
-		{
-			InitializeComponent ();
-		}
+        public Page1()
+        {
+            InitializeComponent();
+        }
 
-        ~Page1() { }
-	}
+        protected override void OnAppearing()
+        {
+            IsEnabled = true;
+        }
+
+        protected override void OnDisappearing()
+        {
+            IsEnabled = false;
+        }
+    }
 }

@@ -6,6 +6,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Graphics;
 
 namespace Gymnastic_User.Droid
 {
@@ -21,6 +22,9 @@ namespace Gymnastic_User.Droid
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
             LoadApplication(new App());
+            Window.ClearFlags(WindowManagerFlags.TranslucentStatus);
+            Window.AddFlags(WindowManagerFlags.DrawsSystemBarBackgrounds);
+            Window.SetStatusBarColor(Color.Black);
         }
     }
 }

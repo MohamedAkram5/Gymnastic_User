@@ -35,7 +35,7 @@
       <DependentUpon>Master.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Interface\MasterDetailPage1MenuItem.cs">
+    <Compile Include="$(MSBuildThisFileDirectory)Scripts\MasterDetailPage1MenuItem.cs">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="$(MSBuildThisFileDirectory)Pages\Page2.xaml.cs">
@@ -46,6 +46,7 @@
       <DependentUpon>Page1.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Scripts\AppManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="$(MSBuildThisFileDirectory)Pages\" />

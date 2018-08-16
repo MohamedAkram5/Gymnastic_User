@@ -13,8 +13,8 @@
 namespace Gymnastic_User {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("D:\\Visual Studio Projects\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Interface\\" +
-        "MainPage.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Int" +
+        "erface\\MainPage.xaml")]
     public partial class MainPage : global::Xamarin.Forms.MasterDetailPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

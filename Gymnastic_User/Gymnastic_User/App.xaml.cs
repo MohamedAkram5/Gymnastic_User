@@ -14,13 +14,15 @@ namespace Gymnastic_User
 		{
 			InitializeComponent();
             MainPage = new MainPage();
-		}
+            AppManager appManager = new AppManager();
+        }
 
         public async static Task NavigateToPage(Page page)
         {
-            DetailPage.IsPresented = false;
+            Gymnastic_User.MainPage.IsPresentedAction(false);
             await DetailPage.Detail.Navigation.PushAsync(page);
         }
+
 
         protected override void OnStart ()
 		{

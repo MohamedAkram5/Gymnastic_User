@@ -4,10 +4,12 @@
              x:Class="Gymnastic_User.Page2"
              Title="Page 2">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Page 2!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+        <StackLayout x:Name="Parent">
+            <Label x:Name="MyLabel"
+                   HorizontalOptions="Center"
+                   VerticalOptions="Center"
+                   />
         </StackLayout>
+        
     </ContentPage.Content>
 </ContentPage>
