@@ -17,8 +17,8 @@ namespace Gymnastic_User
         public Master()
         {
             InitializeComponent();
-            itemsList.Add(new MasterDetailPage1MenuItem("Page 1" , PageType.Page1));
-            itemsList.Add(new MasterDetailPage1MenuItem("Page 2" , PageType.Page2));
+            itemsList.Add(new MasterDetailPage1MenuItem("Page 1" , "Icon_Test.png", PageType.Page1));
+            itemsList.Add(new MasterDetailPage1MenuItem("Page 2"  , "Icon_Test.png", PageType.Page2));
 
             ParentStack.Children.Add(itemsList[0]);
             ParentStack.Children.Add(itemsList[1]);

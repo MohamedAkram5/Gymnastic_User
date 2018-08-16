@@ -12,9 +12,20 @@ namespace Gymnastic_User
 	[XamlCompilation(XamlCompilationOptions.Compile)]
 	public partial class Page1 : ContentPage
 	{
+        private readonly List<Exercise> exercises;
         public Page1()
         {
             InitializeComponent();
+            exercises = new List<Exercise>()
+            {
+                new Exercise("ABS" , "Icon_Test.png"),
+                new Exercise("Back" , "Icon_Test.png"),
+            };
+
+            foreach (var item in exercises)
+            {
+                StackParent.Children.Add(item);
+            }
         }
 
         protected override void OnAppearing()

@@ -17,9 +17,9 @@ namespace Gymnastic_User
 
         public PageType pageType;
 
-        public MasterDetailPage1MenuItem( string text , PageType pageType)
+        public MasterDetailPage1MenuItem( string text  , string imageSource, PageType pageType)
         {
-            SetImage();
+            SetImage(imageSource);
             SetLabel(text);
           //  SetButton();
             this.pageType = pageType;
@@ -29,11 +29,11 @@ namespace Gymnastic_User
             GestureRecognizers.Add(tap);
         }
 
-        private void SetImage()
+        private void SetImage(string source)
         {
             image = new Image()
             {
-                Source = "Icon_Test.png"
+                Source = source
             };
             Children.Add(image);
         }

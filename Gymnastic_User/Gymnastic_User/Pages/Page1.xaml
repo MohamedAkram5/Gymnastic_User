@@ -4,10 +4,14 @@
              x:Class="Gymnastic_User.Page1"
              Title="Page 1">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Page1 !"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
-        </StackLayout>
+        <ScrollView x:Name="ScrollParent">
+
+            <ScrollView.Content>
+                <StackLayout x:Name="StackParent">
+
+                </StackLayout>
+            </ScrollView.Content>
+        </ScrollView>
+
     </ContentPage.Content>
 </ContentPage>

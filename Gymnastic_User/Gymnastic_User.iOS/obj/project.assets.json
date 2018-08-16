@@ -658,20 +658,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mohamed\\.nuget\\packages\\": {}
+    "C:\\Users\\first\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.iOS\\Gymnastic_User.iOS.csproj",
+      "projectUniqueName": "E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.iOS\\Gymnastic_User.iOS.csproj",
       "projectName": "Gymnastic_User.iOS",
-      "projectPath": "E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.iOS\\Gymnastic_User.iOS.csproj",
-      "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
-      "outputPath": "E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.iOS\\obj\\",
+      "projectPath": "E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.iOS\\Gymnastic_User.iOS.csproj",
+      "packagesPath": "C:\\Users\\first\\.nuget\\packages\\",
+      "outputPath": "E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\first\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

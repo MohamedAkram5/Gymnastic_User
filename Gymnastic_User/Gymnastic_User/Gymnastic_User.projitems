@@ -35,6 +35,7 @@
       <DependentUpon>Master.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="$(MSBuildThisFileDirectory)Scripts\Exercise.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Scripts\MasterDetailPage1MenuItem.cs">
       <SubType>Code</SubType>
     </Compile>

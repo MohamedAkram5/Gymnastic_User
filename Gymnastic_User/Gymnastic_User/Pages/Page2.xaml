@@ -4,7 +4,7 @@
              x:Class="Gymnastic_User.Page2"
              Title="Page 2">
     <ContentPage.Content>
-        <StackLayout x:Name="Parent">
+        <StackLayout x:Name="StackParent">
             <Label x:Name="MyLabel"
                    HorizontalOptions="Center"
                    VerticalOptions="Center"
