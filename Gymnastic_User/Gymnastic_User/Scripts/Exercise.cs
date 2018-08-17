@@ -39,11 +39,11 @@ namespace Gymnastic_User
             };
             label2 = new Label()
             {
-                Text = ">",
-                HorizontalOptions = LayoutOptions.End,
+                Text = ">    ",
+                HorizontalOptions = LayoutOptions.EndAndExpand,
                 VerticalOptions = LayoutOptions.Center,
                 VerticalTextAlignment = TextAlignment.Center,
-                HorizontalTextAlignment = TextAlignment.Center
+                HorizontalTextAlignment = TextAlignment.Start,
             };
 
             Children.Add(label1);

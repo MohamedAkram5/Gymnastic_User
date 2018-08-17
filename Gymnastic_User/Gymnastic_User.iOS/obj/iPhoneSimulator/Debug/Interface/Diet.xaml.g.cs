@@ -13,8 +13,8 @@
 namespace Gymnastic_User {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Interface\\Di" +
-        "et.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Int" +
+        "erface\\Diet.xaml")]
     public partial class Diet : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

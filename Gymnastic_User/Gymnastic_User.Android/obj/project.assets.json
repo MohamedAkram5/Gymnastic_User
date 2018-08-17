@@ -740,20 +740,20 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\first\\.nuget\\packages\\": {}
+    "C:\\Users\\Mohamed\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.Android\\Gymnastic_User.Android.csproj",
+      "projectUniqueName": "E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.Android\\Gymnastic_User.Android.csproj",
       "projectName": "Gymnastic_User.Android",
-      "projectPath": "E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.Android\\Gymnastic_User.Android.csproj",
-      "packagesPath": "C:\\Users\\first\\.nuget\\packages\\",
-      "outputPath": "E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.Android\\obj\\",
+      "projectPath": "E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.Android\\Gymnastic_User.Android.csproj",
+      "packagesPath": "C:\\Users\\Mohamed\\.nuget\\packages\\",
+      "outputPath": "E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
-        "C:\\Users\\first\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

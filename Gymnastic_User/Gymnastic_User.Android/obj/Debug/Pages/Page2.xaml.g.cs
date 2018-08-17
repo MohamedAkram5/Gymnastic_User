@@ -13,8 +13,8 @@
 namespace Gymnastic_User {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Pages\\Page2." +
-        "xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Pag" +
+        "es\\Page2.xaml")]
     public partial class Page2 : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

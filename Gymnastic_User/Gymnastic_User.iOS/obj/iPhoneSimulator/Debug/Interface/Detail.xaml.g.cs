@@ -13,8 +13,8 @@
 namespace Gymnastic_User {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\Visual Studio Github\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Interface\\De" +
-        "tail.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("E:\\C# Work\\Visual studio Program\\Gymnastic_User\\Gymnastic_User\\Gymnastic_User\\Int" +
+        "erface\\Detail.xaml")]
     public partial class Detail : global::Xamarin.Forms.TabbedPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]

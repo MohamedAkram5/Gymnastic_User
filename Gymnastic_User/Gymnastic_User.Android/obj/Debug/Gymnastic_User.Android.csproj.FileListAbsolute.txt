@@ -242,7 +242,6 @@ E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\R.cs.flag
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\R.txt
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\uploadflags.txt
-E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\bin\Debug\Gymnastic_User.Android.dll
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\bin\Debug\Mono.Android.pdb
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\bin\Debug\mscorlib.pdb
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\bin\Debug\System.Core.pdb
@@ -286,3 +285,7 @@ E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\bin
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\linksrc\Gymnastic_User.Android.dll.mdb
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
 E:\Visual Studio Github\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+E:\C# Work\Visual studio Program\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\bin\Debug\Gymnastic_User.Android.dll
+E:\C# Work\Visual studio Program\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\linksrc\Gymnastic_User.Android.dll.mdb
+E:\C# Work\Visual studio Program\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\linksrc\FormsViewGroup.dll.mdb
+E:\C# Work\Visual studio Program\Gymnastic_User\Gymnastic_User\Gymnastic_User.Android\obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
